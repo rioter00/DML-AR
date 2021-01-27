@@ -1,88 +1,102 @@
 Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.746; Version 2004; 64bit' Language: 'en' Physical Memory: 65462 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MacOS/Unity
+E:\Unity\Unity Editors\2020.2.2f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/nickhwang/Documents/GitHub/DML-AR/DML - AR Project 1
+E:/DML-AR-Unity/DML-AR/DML - AR Project 1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51129
-Successfully changed project path to: /Users/nickhwang/Documents/GitHub/DML-AR/DML - AR Project 1
-/Users/nickhwang/Documents/GitHub/DML-AR/DML - AR Project 1
+54372
+Successfully changed project path to: E:/DML-AR-Unity/DML-AR/DML - AR Project 1
+E:/DML-AR-Unity/DML-AR/DML - AR Project 1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 50.26 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Refreshing native plugins compatible for Editor in 54.01 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 3.01 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/nickhwang/Documents/GitHub/DML-AR/DML - AR Project 1/Assets
+[Subsystems] Discovering subsystems at path E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/DML-AR-Unity/DML-AR/DML - AR Project 1/Assets
 GfxDevice: creating device client; threaded=0
-2021-01-26 17:52:43.263 Unity[34022:1973673] BenQ RL2455 preferred device: AMD Radeon Pro 5500M (high power)
-2021-01-26 17:52:43.263 Unity[34022:1973673] Metal devices available: 2
-2021-01-26 17:52:43.263 Unity[34022:1973673] 0: AMD Radeon Pro 5500M (high power)
-2021-01-26 17:52:43.263 Unity[34022:1973673] 1: Intel(R) UHD Graphics 630 (low power)
-2021-01-26 17:52:43.279 Unity[34022:1973673] Using device AMD Radeon Pro 5500M (high power)
-Initializing Metal device caps: AMD Radeon Pro 5500M
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6109
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56022
+Mono path[0] = 'E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000573 seconds.
+Register platform support module: E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: E:/Unity/Unity Editors/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001776 seconds.
+Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 38.18 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Refreshing native plugins compatible for Editor in 44.01 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.610 seconds
+- Completed reload, in  1.569 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002274 seconds.
+Registered in 0.005586 seconds.
 Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 38.51 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Refreshing native plugins compatible for Editor in 43.86 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.108 seconds
+- Completed reload, in  1.137 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Hub/Editor/2020.2.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
 Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 137.4 MB.
-System memory in use after: 137.5 MB.
+System memory in use before: 77.2 MB.
+System memory in use after: 77.3 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2220.
-Total: 1.934342 ms (FindLiveObjects: 0.211721 ms CreateObjectMapping: 0.088545 ms MarkObjects: 1.555763 ms  DeleteObjects: 0.077394 ms)
+Total: 2.343200 ms (FindLiveObjects: 0.255100 ms CreateObjectMapping: 0.052400 ms MarkObjects: 1.933000 ms  DeleteObjects: 0.101500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/DrNick
-  artifactKey: Guid(30dfda858061f447ab09c2ee482b509d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DrNick using Guid(30dfda858061f447ab09c2ee482b509d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd6f4ca2fd5cf120e8e6c8e59ddbcd4') in 0.005119 seconds
-  Import took 0.007906 seconds .
+  path: Assets/TimKent
+  artifactKey: Guid(c95531bf46eceb647b2b2ed9c8421ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TimKent using Guid(c95531bf46eceb647b2b2ed9c8421ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08caba696bb21c864b43a6144b8d84f0') in 0.007144 seconds
+  Import took 0.010429 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.801355 seconds.
-  path: Assets/DrNick/DrNick_Test.unity
-  artifactKey: Guid(779d0f6b6d2844e90ba2ec96ad4f2e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DrNick/DrNick_Test.unity using Guid(779d0f6b6d2844e90ba2ec96ad4f2e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8533c80128f8df9639b97292ba7379') in 0.011239 seconds
-  Import took 0.014714 seconds .
+  Time since last request: 10.164215 seconds.
+  path: Assets/TimKent/TimKent_Sence.unity
+  artifactKey: Guid(8b6be3715acbeef42aa1c819b440d030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TimKent/TimKent_Sence.unity using Guid(8b6be3715acbeef42aa1c819b440d030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8f52e16cf3615d341f0e045a4e65a4') in 0.011430 seconds
+  Import took 0.014643 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 12.470192 seconds.
+  path: Assets/TimKent/TimKent_Scene.unity
+  artifactKey: Guid(8b6be3715acbeef42aa1c819b440d030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TimKent/TimKent_Scene.unity using Guid(8b6be3715acbeef42aa1c819b440d030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bee3076725974cdf15874f11d1f859') in 0.003597 seconds
+  Import took 0.007199 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
