@@ -15,12 +15,12 @@ C:/Users/Nick/Documents/GitHub/DML-AR/DML - AR Project 1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54571
+55267
 Successfully changed project path to: C:/Users/Nick/Documents/GitHub/DML-AR/DML - AR Project 1
 C:/Users/Nick/Documents/GitHub/DML-AR/DML - AR Project 1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 44.00 ms, found 7 plugins.
-Preloading 1 native plugins for Editor in 1.20 ms.
+Refreshing native plugins compatible for Editor in 42.30 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 1.17 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Nick/Documents/GitHub/DML-AR/DML - AR Project 1/Assets
@@ -35,205 +35,133 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56636
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002072 seconds.
+Registered in 0.002032 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 34.61 ms, found 7 plugins.
-Preloading 1 native plugins for Editor in 0.10 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.134 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.005436 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000002116B115660 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARKit.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116B3FA040 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166834C60 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166723010 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.WindowsMixedReality.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166A16E70 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AAD5040 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166A27480 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116B115660 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166F27620 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C130010 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C4CCCF0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166F27620 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166BC7EC0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166C2E7E0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166A0C890 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AC21C30 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AC21C30 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C630020 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AC442D0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C144A20 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166742D20 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116688B140 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.InteractionSubsystems.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AE0E420 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.XR.MagicLeap.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000211664F0320 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.WindowsMixedReality.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AE13830 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.XR.MagicLeap.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116BF10430 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C409070 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116B880030 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166834C60 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116BE73020 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021166C2D420 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.Management.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116668E630 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116C154A30 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARCore.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116B8B2A50 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AC2B040 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116695CA40 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116BD76290 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000002116AAD9050 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 34.12 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 31.31 ms, found 7 plugins.
 Preloading 1 native plugins for Editor in 0.11 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.823 seconds
+- Completed reload, in  1.096 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005521 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000023A79394670 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARKit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A6333F0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74F08340 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.InteractiveTutorialsFramework.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A6333F0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.WindowsMixedReality.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A1A9030 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A79394670 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A1B9640 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A79394670 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A78C061F0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A78E66020 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A688570 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A008630 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7493CAA0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74953A40 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A0F7DE0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A79009C20 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A81A630 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A78E77C30 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A6834D0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A78E77C30 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A79B59D50 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74AEC500 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.InteractionSubsystems.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A1B9640 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.XR.MagicLeap.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74A91CE0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.WindowsMixedReality.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A1B9640 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.XR.MagicLeap.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74CEA1A0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A750FF190 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A798F2020 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74F08340 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A0FB040 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7963A010 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74CBD2B0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74BC0600 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARCore.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74CC9EC0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7A635A00 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A7461C810 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A74CC9EC0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000023A749FC1B0 doesn't match image C:\Users\Nick\Documents\GitHub\DML-AR\DML - AR Project 1\Library\ScriptAssemblies\Unity.InteractiveTutorials.Core.Scripts.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.46 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.64 ms, found 7 plugins.
-Preloading 1 native plugins for Editor in 0.34 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 7 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
 Unloading 1780 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.2 MB.
+System memory in use before: 77.3 MB.
 System memory in use after: 77.3 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2220.
-Total: 1.472100 ms (FindLiveObjects: 0.145400 ms CreateObjectMapping: 0.057700 ms MarkObjects: 1.199800 ms  DeleteObjects: 0.068200 ms)
+Total: 1.668100 ms (FindLiveObjects: 0.151900 ms CreateObjectMapping: 0.054500 ms MarkObjects: 1.390900 ms  DeleteObjects: 0.070000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/NickTrent/3D Hut.obj
-  artifactKey: Guid(0c0ce343ef19e9a43ad552c3f4a43ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NickTrent/3D Hut.obj using Guid(0c0ce343ef19e9a43ad552c3f4a43ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f99d74c7d5232ba97efaf9ec2dd0f1') in 0.364480 seconds
-  Import took 0.367041 seconds .
+  path: Assets/NickTrent/Assets
+  artifactKey: Guid(5dc5941c6aba4894d9228fcdcb9a8a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NickTrent/Assets using Guid(5dc5941c6aba4894d9228fcdcb9a8a62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febee402f471457a5656aefaa02a29f8') in 0.003873 seconds
+  Import took 0.006063 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.299368 seconds.
-  path: Assets/NickTrent/NickTrent_Test.unity
-  artifactKey: Guid(12e8be052781b95478e6a0cf529fb3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NickTrent/NickTrent_Test.unity using Guid(12e8be052781b95478e6a0cf529fb3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595633ba6e06a270563c4683f3b69547') in 0.003587 seconds
-  Import took 0.006302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.006940 seconds.
-  path: Assets/NickTrent/NickTrent_Test.unity
-  artifactKey: Guid(12e8be052781b95478e6a0cf529fb3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NickTrent/NickTrent_Test.unity using Guid(12e8be052781b95478e6a0cf529fb3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595633ba6e06a270563c4683f3b69547') in 0.002446 seconds
-  Import took 0.004736 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.868919 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect
-  artifactKey: Guid(e7a5a5d885caa6343a3d9261d3d5fd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect using Guid(e7a5a5d885caa6343a3d9261d3d5fd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e1671e88d7cb1b78144382b7b08914') in 0.002737 seconds
-  Import took 0.004966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.057890 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraMateral_A.mat
-  artifactKey: Guid(a88e2296e02935a469bbe70ef00d0f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraMateral_A.mat using Guid(a88e2296e02935a469bbe70ef00d0f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115ae507b83e866057a7cf361976c902') in 0.010777 seconds
-  Import took 0.013078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraTexture_b 1.renderTexture
-  artifactKey: Guid(7b8ae3fb0f6e61e4c9cf75cab4549d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraTexture_b 1.renderTexture using Guid(7b8ae3fb0f6e61e4c9cf75cab4549d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8ccda02cc1d5def0015a4e158f1551') in 0.012990 seconds
-  Import took 0.015216 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraMaterial_b.mat
-  artifactKey: Guid(bda6f774b2a6ae94d8e61f6c4db639a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraMaterial_b.mat using Guid(bda6f774b2a6ae94d8e61f6c4db639a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff95157dee1d2ae062395cea97bfa85') in 0.007027 seconds
-  Import took 0.009221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraTexture_A.renderTexture
-  artifactKey: Guid(79118532c7d69d540ac566487e546dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/CameraTexture_A.renderTexture using Guid(79118532c7d69d540ac566487e546dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae82801bd29874bf920fddd0d5de8708') in 0.005335 seconds
-  Import took 0.007525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/MaterialA.mat
-  artifactKey: Guid(9a1cfa755f0e86945bb433a67d82bba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/MaterialA.mat using Guid(9a1cfa755f0e86945bb433a67d82bba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef59b2487b25af4edf831b6feba6b83') in 0.007677 seconds
-  Import took 0.009901 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/MaterialB.mat
-  artifactKey: Guid(8381ebdaaa3eecf47925033f42aa7565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/MaterialB.mat using Guid(8381ebdaaa3eecf47925033f42aa7565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf76ce9d27f4eca7c3b61a0df398aa87') in 0.008107 seconds
-  Import took 0.010320 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.033879 seconds.
-  path: Assets/AndrewYang/Yangac14 - Brackeys Portal effect/AndrewYang_test.unity
-  artifactKey: Guid(b5b6b1656c4ac91478823c5fe86948ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AndrewYang/Yangac14 - Brackeys Portal effect/AndrewYang_test.unity using Guid(b5b6b1656c4ac91478823c5fe86948ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5d5d628a5ebf7b0fff3dfb619b840f') in 0.003102 seconds
-  Import took 0.005379 seconds .
+  Time since last request: 0.000212 seconds.
+  path: Assets/NickTrent/Assets/3DHut.fbx
+  artifactKey: Guid(6352d8358ed2d7348b04166d15ea23b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NickTrent/Assets/3DHut.fbx using Guid(6352d8358ed2d7348b04166d15ea23b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22bef6907779fc0762d42e55e023b26') in 0.165974 seconds
+  Import took 0.168233 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
